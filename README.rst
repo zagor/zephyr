@@ -29,16 +29,18 @@ Intel x86, ARC, Nios II, Tensilica Xtensa, and RISC-V, and a large number of
 
 .. start_include_here
 
-Getting Started
-***************
+=================
+ Getting Started
+=================
 
 To start developing Zephyr applications refer to the `Getting Started Guide`_
 in the `Zephyr Documentation`_ pages.
 A brief introduction to Zephyr can be found in the  `Zephyr Introduction`_
 page.
 
-Community Support
-*****************
+===================
+ Community Support
+===================
 
 The Zephyr Project Developer Community includes developers from member
 organizations and the general community all joining in the development of
@@ -50,8 +52,9 @@ its members and the User Community to get the most out of the Zephyr Project.
 
 Welcome to the Zephyr community!
 
-Resources
-*********
+===========
+ Resources
+===========
 
 Here's a quick summary of resources to find your way around the Zephyr Project
 support systems:
@@ -127,3 +130,4 @@ support systems:
 
 
 foo
+bar
